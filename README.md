@@ -1,10 +1,8 @@
-# 👋 Hey, I'm Orbital
-
 Minecraft modder & game developer. I build mods, tools, and other cool stuff
 
-- 🌱 Currently working on: **Lived In**, **Foundry**, and **Chroma**
-- 🛠️ Forge modding on the Minecraft side, TypeScript for tooling
-- 🌐 Portfolio: not made yet
+- Currently working on: **Lived In**, **Foundry**, and **Chroma**
+- Forge is def my fav to mod in.
+- Portfolio: not made yet
 
 ---
 
